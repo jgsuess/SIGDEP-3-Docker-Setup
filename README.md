@@ -19,6 +19,8 @@ git lfs checkout
 
 git lfs pull
 
+git lfs install
+
 ```
 In the file found at "./configs/opencr/config.json" change the
 installed flag under app to false to load configs for Opencr  
